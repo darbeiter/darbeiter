@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dustin</h1>
 <h3 align="center">A passionate Software Developer / Software Architect</h3>
 
-- 🔭 I’m currently working on [Tinder-Clone](https://github.com/darbeiter/tinder-clone/)
+- 🔭 I’m currently working on [C# Microservices](https://github.com/darbeiter/CSharp-Microservices)
 
 - 🌱 I’m currently learning **Software Architecture / Expert Skills for Software Developing**
 
